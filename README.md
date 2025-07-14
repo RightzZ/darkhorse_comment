@@ -19,3 +19,11 @@ Learn about Cache Penetration, Cache Avalanche, Cache Breakdown
 Complete functions to solve Cache Breakdown by using Mutex locks and Logical expiration time
 
 Wrap Redis operations about Cache in CacheService utility class
+
+## 2025/07/14
+
+Learn about Globally unique ID and complete the function based on Redis
+
+Complete functions about voucher
+
+Review knowledge about locks, optimistic locking and multithreading concurrency
