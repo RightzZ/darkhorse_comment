@@ -27,3 +27,13 @@ Learn about Globally unique ID and complete the function based on Redis
 Complete functions about voucher
 
 Review knowledge about locks, optimistic locking and multithreading concurrency
+
+## 2025/07/15
+
+Learn about distributed locks and implemented them using Redis and Lua scripts
+
+Learn about Reddison and set up a reentrant lock
+
+Learn the approach for handling coupon orders asynchronously
+
+Cache coupon information from the mysql database to Redis and using Lua scripts to perform operations during the ordering process
