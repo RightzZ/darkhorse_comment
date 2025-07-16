@@ -37,3 +37,13 @@ Learn about Reddison and set up a reentrant lock
 Learn the approach for handling coupon orders asynchronously
 
 Cache coupon information from the mysql database to Redis and using Lua scripts to perform operations during the ordering process
+
+## 2025/07/16
+
+Rest
+
+## 2025/07/17
+
+Learn about Message Queue
+
+Complete functions about coupon orders based on MQ and Redis
