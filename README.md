@@ -46,4 +46,9 @@ Rest
 
 Learn about Message Queue
 
-Complete functions about coupon orders based on MQ and Redis
+Complete functions about coupon orders based on MQ and Redis Stream
+
+Complete functions about releasing blogs, following users
+
+Learn about Feed Stream and complete functions about feeding blogs
+
