@@ -52,3 +52,17 @@ Complete functions about releasing blogs, following users
 
 Learn about Feed Stream and complete functions about feeding blogs
 
+## 2025/07/18
+
+Learn about Geolocation data based on Redis
+
+Complete functions about surrounding shops based on GEO and redis
+
+Learn about Bitmap based on Redis
+
+Complete functions about Sign up
+
+Learn about Hyperloglog to count UV data
+
+Complete
+
